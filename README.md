@@ -5,5 +5,5 @@ Team Members:
   1. Jiya Singh-> @j1yaa
   2. Stuti Patel-> @Stuti122
   3. Krishna Reddy-> @Kr1347
-  4. Rosie Nguyen->
+  4. Rosie Nguyen-> @RosieN12
   5. Jeffry Sanchez-> @Jhsanchez90
